@@ -56,10 +56,10 @@ docker run -d -p 8080:80 my-website
 http://localhost:8080
 ```
 
-
-## Using Docker Compose
+```bash
+### Using Docker Compose
 docker-compose up --build
-
+```
 🔧 Customization
 Replace files in /app with your static website or app.
 
