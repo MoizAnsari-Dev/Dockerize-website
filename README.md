@@ -92,5 +92,5 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 
 👨‍💻 Author
 Moiz Ansari
-🔗 GitHub
-📫 Email
+🔗 GitHub = https://github.com/MoizAnsari-Dev
+📫 Email = moizansari.india@gmail.com
