@@ -54,6 +54,7 @@ docker run -d -p 8080:80 my-website
 
 # Open in browser:
 http://localhost:8080
+```
 
 
 ## Using Docker Compose
