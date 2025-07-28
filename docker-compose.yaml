@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  web:
+    build: .
+    container_name: docker_shopping_app
+    ports:
+      - "3000:5173"
